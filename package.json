@@ -1,0 +1,14 @@
+{
+  "name": "tto",
+  "version": "1.0.0",
+  "description": "Tic-Tak-Toe game",
+  "dependencies": {
+    "@medv/list": "^1.0.1"
+  },
+  "bin": {
+    "tto": "./index.js"
+  },
+  "repository": "antonmedv/tto",
+  "author": "Anton Medvedev <anton@medv.io>",
+  "license": "MIT"
+}
